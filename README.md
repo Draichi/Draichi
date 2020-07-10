@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+My name is Draichi, Lucas Draichi. 
+
+- :briefcase: I’m currently working on [@Talentify](https://github.com/Talentify) and [@Sabido](https://github.com/sabidoapp) as Frontend lead developer
+- :notebook_with_decorative_cover: I’m currently learning Typescript
+- :bust_in_silhouette: I’m looking to collaborate on decentralized applications
+- :telephone_receiver: How to reach me: email me @ lucasdraichi@gmail.com or add me on discord `randy_marsh#8226`
+- :shipit: Fun fact: My first programming language was C :relaxed:
 
 <!--
 **Draichi/Draichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
