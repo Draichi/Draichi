@@ -6,7 +6,7 @@ My name is Draichi, Lucas Draichi.
 - :notebook_with_decorative_cover: I’m currently learning Typescript
 - :bust_in_silhouette: I’m looking to collaborate on decentralized applications
 - :telephone_receiver: How to reach me: email me @ lucasdraichi@gmail.com or add me on discord `randy_marsh#8226`
-- :shipit: Fun fact: My first programming language was C :relaxed:
+- :hurtrealbad: Fun fact: My first programming language was C :relaxed:
 
 <!--
 **Draichi/Draichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
