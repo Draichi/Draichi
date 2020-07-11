@@ -2,7 +2,7 @@
 
 My name is Draichi, Lucas Draichi. 
 
-- :briefcase: I’m currently working on [@Talentify](https://github.com/Talentify) and [@Sabido](https://github.com/sabidoapp) as Frontend lead developer
+- :briefcase: I’m currently working on [@Talentify](https://github.com/Talentify) and [@Sabido](https://github.com/sabidoapp) as the Frontend lead developer
 - :notebook_with_decorative_cover: I’m currently learning Typescript
 - :bust_in_silhouette: I’m looking to collaborate on decentralized applications
 - :telephone_receiver: How to reach me: email me @ lucasdraichi@gmail.com or add me on discord `randy_marsh#8226`
