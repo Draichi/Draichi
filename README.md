@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 :wrench: Check it out my [_Draichiboard_](https://draichiboard-v2.vercel.app/#/) (wip)
+-->
