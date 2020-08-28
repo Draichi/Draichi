@@ -1,6 +1,6 @@
-<!-- ### Hi there 👋 --> 
+Hi there 👋
 
-### Draichi, Lucas Draichi. 
+<!--### Draichi, Lucas Draichi. --> 
 
 - :briefcase: I’m currently working on [@Talentify](https://github.com/Talentify) as the Frontend lead developer
 - :notebook_with_decorative_cover: I’m currently learning Typescript
