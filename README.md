@@ -1,6 +1,8 @@
-Hi there 👋
+![Draichiboard](https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png)
 
-<!--### Draichi, Lucas Draichi. --> 
+<!--
+**Draichi/Draichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - :briefcase: I’m currently working on [@Talentify](https://github.com/Talentify) as the Frontend lead developer
 - :notebook_with_decorative_cover: I’m currently learning Svelte
@@ -8,8 +10,6 @@ Hi there 👋
 - :telephone_receiver: How to reach me: email me @ lucasdraichi@gmail.com or add me on discord `randy_marsh#8226`
 - :hurtrealbad: Fun fact: My first programming language was C :relaxed:
 
-<!--
-**Draichi/Draichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
