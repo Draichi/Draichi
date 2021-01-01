@@ -1,4 +1,4 @@
-![Draichiboard](https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png)
+<!-- ![Draichiboard](https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png) -->
 
 <!--
 **Draichi/Draichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
