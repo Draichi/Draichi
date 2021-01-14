@@ -1,13 +1,11 @@
 <!-- ![Draichiboard](https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Draichi&count_private=true&show_icons=true&theme=cobalt" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Draichi&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draichi&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=Portfolio-Management-list&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=T-1000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Draichi/Draichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
