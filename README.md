@@ -2,8 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Draichi&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draichi&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=T-1000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
