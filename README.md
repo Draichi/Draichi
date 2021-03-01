@@ -1,12 +1,14 @@
 <!-- ![Draichiboard](https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png) -->
-
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Draichi&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draichi&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## Projects
 
 [![T-1000 Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=T-1000&theme=cobalt)](https://github.com/Draichi/T-1000)
+
 [![Nostradamus Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=Nostradamus&theme=cobalt)](https://github.com/Draichi/Nostradamus)
 
 <!--
