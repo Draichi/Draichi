@@ -1,6 +1,6 @@
 <!-- ![Draichiboard](https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png) -->
 
-<a href="https://draichiboard.vercel.app/"><img src="https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png" alt="Draichiboard: Draichi's personal dashboard"/></a>
+<a href="https://draichiboard.vercel.app/" target="_blank"><img src="https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png" alt="Draichiboard: Draichi's personal dashboard"/></a>
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Draichi&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
