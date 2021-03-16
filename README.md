@@ -1,4 +1,7 @@
 <!-- ![Draichiboard](https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png) -->
+
+<div style="text-align: center;width: 50px"><img src="https://github.com/Draichi/draichiboard/blob/master/static/draichi.github.io_draichiboard_(fullhd).png" alt="Draichiboard: Draichi's personal dashboard"/></div>
+
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Draichi&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
