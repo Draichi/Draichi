@@ -12,6 +12,10 @@
 
 ## Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=tesla-landing-page-clone&theme=cobalt)](https://github.com/Draichi/tesla-landing-page-clone)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=animated-cookies-dialog&theme=cobalt)](https://github.com/Draichi/animated-cookies-dialog)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=admin-template-nextjs&theme=cobalt)](https://github.com/Draichi/admin-template-nextjs)
 <!--
 **Draichi/Draichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
