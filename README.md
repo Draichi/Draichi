@@ -8,8 +8,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Draichi&count_private=true&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draichi&layout=compact&theme=cobalt)
----
 
+
+## Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=tesla-landing-page-clone&theme=cobalt)](https://github.com/Draichi/tesla-landing-page-clone)
 <!--
 **Draichi/Draichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
