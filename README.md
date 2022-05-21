@@ -18,3 +18,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=admin-template-nextjs&theme=cobalt" />
 </a>
+
+<a href="https://github.com/Draichi/filter-animation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=filter-animation&theme=cobalt" />
+</a>
+
