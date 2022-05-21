@@ -6,16 +6,19 @@
 
 ## Repos
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Draichi/tesla-landing-page-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=tesla-landing-page-clone&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://github.com/Draichi/animated-cookies-dialog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=animated-cookies-dialog&theme=cobalt" />
 </a>
+
 <a href="https://github.com/Draichi/iphone-13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=iphone-13&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://github.com/Draichi/admin-template-nextjs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=admin-template-nextjs&theme=cobalt" />
 </a>
 
@@ -23,3 +26,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=filter-animation&theme=cobalt" />
 </a>
 
+<a href="https://github.com/Draichi/text-animarion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=text-animarion&theme=cobalt" />
+</a>
