@@ -11,9 +11,24 @@
 
 
 ## Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=tesla-landing-page-clone&theme=cobalt)](https://github.com/Draichi/tesla-landing-page-clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=animated-cookies-dialog&theme=cobalt)](https://github.com/Draichi/animated-cookies-dialog)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=tesla-landing-page-clone&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=animated-cookies-dialog&theme=cobalt" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=iphone-13&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=admin-template-nextjs&theme=cobalt" />
+</a>
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=tesla-landing-page-clone&theme=cobalt)](https://github.com/Draichi/tesla-landing-page-clone)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=animated-cookies-dialog&theme=cobalt)](https://github.com/Draichi/animated-cookies-dialog) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Draichi&repo=admin-template-nextjs&theme=cobalt)](https://github.com/Draichi/admin-template-nextjs)
 <!--
