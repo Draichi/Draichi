@@ -49,7 +49,6 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/scss/scss.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/storybook/storybook.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/threejs/threejs.png"></code>
