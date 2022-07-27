@@ -51,8 +51,6 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/storybook/storybook.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bitcoin/bitcoin.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/monero/monero.png"></code>
   
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draichi&layout=compact&theme=cobalt)
