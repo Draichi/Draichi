@@ -5,9 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Draichi&count_private=true&show_icons=true&theme=cobalt)
 </div>
 
-
-***
-
 # Top Languages
 
 <!-- <img src="https://media.giphy.com/media/XbV2mrHs6ureBPUEuJ/giphy.gif" align="left"/> -->
