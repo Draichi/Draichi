@@ -1,9 +1,8 @@
-# Stats
 <div align="center">
+
+# Stats
  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Draichi&count_private=true&show_icons=true&theme=cobalt)
-</div>
+<img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&username=Draichi" height="200" alt="stats graph"  />
 
 # Top Languages
 
@@ -19,8 +18,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/storybook/storybook.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
-  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draichi&layout=compact&theme=cobalt)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&username=Draichi&layout=compact" height="200" alt="stats graph"  />
 
 </div>
