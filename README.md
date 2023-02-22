@@ -8,6 +8,9 @@
 - :shipit: I'm currently learning web security and pentest
 - :neckbeard: Ask me about front-end development
  
+ 
+ ᖗᵔ‸ᵔᖘ
+ 
 </div>
  
 
