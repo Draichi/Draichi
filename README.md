@@ -1,4 +1,4 @@
-# Draichi
+# Draichi  ᖗᵔ‸ᵔᖘ
 
 <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&username=Draichi" height="200" alt="stats graph" align="right"  />
 
@@ -9,7 +9,7 @@
 - :neckbeard: Ask me about front-end development
  
  
- ᖗᵔ‸ᵔᖘ
+
  
 </div>
  
