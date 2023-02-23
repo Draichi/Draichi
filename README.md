@@ -6,7 +6,7 @@
  
 - :godmode: I'm building a trading bot called T-1000
 - :shipit: I'm currently learning web security and pentest
-- :neckbeard: Ask me about front-end development
+- 🗣️ I'm currently learning French
  
  
 
