@@ -4,9 +4,11 @@
 
 <div align="left">
  
-- :godmode: I'm building a trading bot called T-1000
-- :shipit: I'm currently learning web security and pentest
+- 🤫 I'm building an award winning website in secret 
+- :rage2: I'm learning web security and pentest
 - 🗣️ I'm currently learning French
+ 
+ Checkout my [draichiboard](https://draichiboard.com?utm_source=github)
  
  
 
