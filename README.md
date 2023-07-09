@@ -4,9 +4,6 @@
 
 <div align="left">
  
-- 🤫 I'm building an award winning website in secret 
-- :rage2: I'm learning web security and pentest
-- 🗣️ I'm currently learning French
  
  Checkout my [draichiboard](https://draichiboard.com?utm_source=github)
  
