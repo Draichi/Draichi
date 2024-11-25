@@ -510,30 +510,30 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-76.917,-21.995L0,0Z">
-                                        <title>TypeScript
-48.66</title>
+                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-69.16,40.211L0,0Z">
+                                        <title>TSX
+40.80</title>
                                     </path>
-                                    <path fill="#563d7c" d="M-76.636,-22.955A80,80,0,0,1,-74.736,-28.54L0,0Z">
+                                    <path fill="#663399" d="M-69.657,39.343A80,80,0,0,1,-72.367,34.103L0,0Z">
                                         <title>CSS
 0.72</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-74.374,-29.472A80,80,0,0,1,-0.5,-79.998L0,0Z">
-                                        <title>TSX
-11.59</title>
+                                    <path fill="#3178c6" d="M-72.788,33.196A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                        <title>TypeScript
+19.45</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(23.984280766912057,32.01178339446167)">
-                                        <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">48.66</tspan>
+                                    <text transform="translate(34.608899005956545,20.05552566240786)">
+                                        <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
+                                        <tspan x="0" y="1.1em">40.80</tspan>
                                     </text>
-                                    <text transform="translate(-37.86877451064652,-12.882387863350836)">
+                                    <text transform="translate(-35.530208606142544,18.37401089593652)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(-22.581804989641494,-33.01608825118146)">
-                                        <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
-                                        <tspan x="0" y="1.1em">11.59</tspan>
+                                    <text transform="translate(-33.712032448075206,-21.529023856643484)">
+                                        <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
+                                        <tspan x="0" y="1.1em">19.45</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -3127,7 +3127,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2024, 12:12:22 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2024, 13:14:24 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
