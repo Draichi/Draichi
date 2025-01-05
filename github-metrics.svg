@@ -3052,7 +3052,7 @@ Fix `React is not defined` in staging</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 108k out of 152m users</span>
+                                    <span class="gh">ranked 108k out of 149m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">139</div>
                                     </div>
@@ -3224,7 +3224,7 @@ Fix `React is not defined` in staging</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jan 2025, 17:11:08 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2025, 18:09:35 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
