@@ -2963,7 +2963,7 @@ Connect API to front-end</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 109k out of 146m users</span>
+                                    <span class="gh">ranked 109k out of 153m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">139</div>
                                     </div>
@@ -3135,7 +3135,7 @@ Connect API to front-end</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jan 2025, 10:19:03 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2025, 11:10:43 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
