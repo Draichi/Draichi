@@ -268,8 +268,8 @@
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
                             <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
                             <div class="label" title="Bitcoin is a cryptocurrency developed by Satoshi Nakamoto.">bitcoin</div>
-                            <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
                             <div class="label" title="Front end is the programming and layout that people see and interact with.">front end</div>
+                            <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
                             <div class="label" title="Artificial intelligence is the ability of a computer or machine to perform tasks commonly associated with intelligent beings.">artificial intelligence</div>
                             <div class="label" title="Next.js is an open source React front-end development web framework.">next</div>
@@ -2471,7 +2471,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Dec 2025, 15:20:28 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2025, 16:12:11 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
