@@ -1,3 +1,1 @@
-# Draichi
-
-![Metrics](/github-metrics.svg)
+:godmode:
