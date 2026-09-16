@@ -1,3 +1,3 @@
 # AI Security Engineer
 
-:godmode: breaking and build AI stuff
+breaking and building AI stuff :godmode: 
